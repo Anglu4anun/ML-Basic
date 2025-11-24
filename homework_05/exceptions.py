@@ -5,6 +5,7 @@
 - CargoOverload
 """
 
+"""решение"""
 class LowFuelError(Exception):
     pass
 class NotEnoughFuel(LowFuelError):
